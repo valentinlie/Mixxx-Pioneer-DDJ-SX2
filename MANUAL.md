@@ -15,14 +15,14 @@ the BACK button goes to the left panel of the Library.
 VIEW (SHIFT + BACK) toggles between 8 view modes:
 - two decks, waveforms in decks, mixer visible
 - four decks, waveforms in decks, mixer visible
-- two decks, stacked waveforms, mixer visible
-- four decks, stacked waveforms, mixer visible
+- two decks, parallel waveforms, mixer visible
+- four decks, parallel waveforms, mixer visible
 - two decks, waveforms in decks, mixer hidden
 - four decks, waveforms in decks, mixer hidden
-- two decks, stacked waveforms, mixer hidden
-- four decks, stacked waveforms, mixer hidden
+- two decks, parallel waveforms, mixer hidden
+- four decks, parallel waveforms, mixer hidden
 
-stacked waveforms is a Deere-skin-specific setting.
+parallel waveforms is a Deere-skin-specific setting.
 
 the LOAD PREPARE button has no effect.
 
